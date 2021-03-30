@@ -106,6 +106,7 @@
   }
   
   .message-block {
+    text-align: start;
     width: 100%;
     display: inline-block;
   }
@@ -156,6 +157,7 @@
   }
   
   .message-form-container {
+    text-align: start;
     position: absolute;
     bottom: 0px;
     width: calc(100% - 36px);
