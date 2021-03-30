@@ -75,6 +75,8 @@
     width: 100%;
     overflow: scroll;
     background-color: rgb(240, 240, 240);
+    display: flex;
+    flex-direction: column-reverse;
   }
   
   .chat-title-container {
